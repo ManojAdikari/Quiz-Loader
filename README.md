@@ -17,7 +17,7 @@ When you click the button start quiz game will start
 
 
 ### questions
-You can select mulitple choice.system shows it write or wrong
+You can select mulitple choice.system shows it wright  or wrong
 ![alt text](Images/2.png)
 
 
